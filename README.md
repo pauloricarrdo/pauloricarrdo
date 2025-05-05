@@ -1,7 +1,7 @@
 ## Olá! eu me chamo Paulo Ricardo. 
 
-- ✍ Atualmente estou aprendendo a programar utilizando Python.
-- 🧠 Estudando Back-End
+- ✍ Atualmente estou aprendendo a programar utilizando JavaScript.
+- 🧠 Estudando Front-End
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
