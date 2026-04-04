@@ -4,7 +4,7 @@ Me chamo Paulo Ricardo.
 
 ✍ Atualmente, estou aprendendo a programar utilizando JavaScript.
 
-🧠 Estudo Desenvolvimento Front-End e curso Engenharia da Computação na Universidade FAMETRO — atualmente no quinto período.
+🧠 Estudo Desenvolvimento Front-End e curso Engenharia da Computação na Universidade FAMETRO — atualmente no sexto período.
 
 ⚡ Curiosidade: Trabalhei durante 5 anos como auxiliar administrativo e, agora, estou em transição de carreira. Busco novas oportunidades na área pela qual sou apaixonado: programação e tecnologias. Tenho como objetivo ingressar em um ambiente onde eu possa me desenvolver como profissional e aplicar todo o conhecimento que venho adquirindo.
 
