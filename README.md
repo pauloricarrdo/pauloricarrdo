@@ -1,13 +1,3 @@
-Hello, Devs!!
-
-Me chamo Paulo Ricardo.
-
-✍ Atualmente, estou aprendendo a programar utilizando JavaScript.
-
-🧠 Estudo Desenvolvimento Front-End e curso Engenharia da Computação na Universidade FAMETRO — atualmente no sexto período.
-
-⚡ Curiosidade: Trabalhei durante 5 anos como auxiliar administrativo e, agora, estou em transição de carreira. Busco novas oportunidades na área pela qual sou apaixonado: programação e tecnologias. Tenho como objetivo ingressar em um ambiente onde eu possa me desenvolver como profissional e aplicar todo o conhecimento que venho adquirindo.
-
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 
